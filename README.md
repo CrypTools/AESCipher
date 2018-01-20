@@ -1,2 +1,2 @@
 # AESCipher
-Advanced Encryption Standard (CTR mode only for the moment)
+Advanced Encryption Standard (CTR mode only for the moment).
