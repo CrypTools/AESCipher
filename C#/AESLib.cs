@@ -1,4 +1,15 @@
-﻿using System;
+﻿/************************************************************************************************/
+//
+//         Usage: AESLib.Encrypt(CipherMode(CTR, CBC, ...), BlockSize(128 or 256), 
+//                                BytesToBeEncryptedAsByteArray, KeyAsByteArray)
+//
+//                AESLib.Decrypt(CipherMode(CTR, CBC, ...), BlockSize(128 or 256), 
+//                                BytesToBeDecryptedAsByteArray, KeyAsByteArray)
+//
+/************************************************************************************************/
+
+
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
